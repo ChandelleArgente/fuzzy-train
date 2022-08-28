@@ -1,0 +1,2 @@
+# fuzzy-train
+NFT project
